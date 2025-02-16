@@ -12,6 +12,11 @@ This project analyzes product reviews and predicts their sentiment using **Natur
 
 ---
 
+## 🎯 Model Performance
+- **Training Accuracy✅:**  **84%**
+- **Test Accuracy✅:**  **82%**
+---
+
 ## 🛠️ Tech Stack  
 
 - **Programming:** Python  
